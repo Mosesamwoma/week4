@@ -1,6 +1,6 @@
 # Week 4
 
-``bash
+```bash
 MOSES AMWOMA TUMBO
 
 CT204/119586/24
